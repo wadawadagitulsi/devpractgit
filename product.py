@@ -20,5 +20,5 @@ print(name2, ":", price2)
 print(name3, ":", price3)
 print(name4, ":", price4)
 print(name5, ":", price5)
-
+#calculate total
 print("Total Purchase Amount:", total)
