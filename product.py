@@ -10,11 +10,15 @@ price3 = float(input("Enter third product price: "))
 name4 = input("Enter fourth product name: ")
 price4 = float(input("Enter fourth product price: "))
 
-total = price1 + price2 + price3 + price4
+name5 = input("Enter fifth product name: ")
+price5 = float(input("Enter fifth product price: "))
+
+total = price1 + price2 + price3 + price4 + price5
 
 print(name1, ":", price1)
 print(name2, ":", price2)
 print(name3, ":", price3)
 print(name4, ":", price4)
+print(name5, ":", price5)
 
 print("Total Purchase Amount:", total)
